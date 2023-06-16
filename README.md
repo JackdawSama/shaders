@@ -14,4 +14,4 @@ The final file is purely just the simplified and efficient code that's written w
 
 ### Shader Previews
 
-Note: Previews might be updated then and there but I try to do that.
+Note: Previews might not be updated then and there but they're bound to show up soon before the next shader is learnt.
